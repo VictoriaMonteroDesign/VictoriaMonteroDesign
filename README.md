@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Victoria Montero
-- 👀 I’m interested in Art, Crafts and Design
-- 🌱 I’m currently learning UX/UI Design
+- 👀 I’m interested in Art and Digital Design
+- 🌱 I’m a UX/UI Design and Web Developer
 - 📫 How to reach me mvictoria.monteroo@gmail.com
 
 <!---
