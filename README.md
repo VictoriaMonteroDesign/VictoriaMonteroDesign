@@ -1,6 +1,6 @@
 # Sobre Mí
 
-👋 **¡Hola! Soy [Tu Nombre]**
+👋 **¡Hola! Soy Maria Victoria Montero**
 
 Soy **Desarrollador(a) Web** con una sólida formación en **Diseño UX/UI** y dominio del **inglés C1**. Mi trabajo combina **creatividad**, **organización** y habilidades técnicas, lo que me permite crear experiencias digitales intuitivas y visualmente atractivas.
 
