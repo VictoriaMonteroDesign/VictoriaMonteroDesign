@@ -25,7 +25,7 @@ Me apasiona estar a la vanguardia de las **tendencias del mercado** y las **nuev
 Explora mis proyectos o contáctame para oportunidades de colaboración. ¡Siempre estoy entusiasmado(a) por asumir **nuevos proyectos** y contribuir a soluciones innovadoras!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariavictoriamontero-developer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.behance.net/MVictoriaMonteroO)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/MVictoriaMonteroO)
 
 <!---
 - 👋 Hi, I’m Maria Victoria Montero
